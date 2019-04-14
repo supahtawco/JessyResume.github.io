@@ -1,0 +1,28 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color: #edddd5;
+}
+
+#header  {
+	width: 25%;
+	float: left;
+	border: 10px solid #782e25;
+	background-color: #c54535;
+	font-size: 1.5rem;
+	color: #edddd5;
+	text-align: center;
+	padding: 25px;
+	margin-left: 15px;
+	margin-right: 40px;
+}
+
+#content {
+	float: left;
+	width: 50%;
+	font-size: 1rem;
+	border: 10px solid #283e3c;
+	padding: 50px;
+	color: #edddd5;
+	background-color: #197379;
+}
